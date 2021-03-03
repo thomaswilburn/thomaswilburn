@@ -1,4 +1,4 @@
-### Hi.
+# Hi.
 ## I'm Thomas Wilburn
-# and this is my profile.
+### and this is my profile.
 

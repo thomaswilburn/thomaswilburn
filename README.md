@@ -1,4 +1,7 @@
 # Hi.
+
+![banner](soul_society.jpg)
+
 ## I'm Thomas Wilburn, and this is my profile.
 
 I'm a data journalist with over a decade of experience in building rich, interactive storytelling. Currently, I'm the senior news apps developer for NPR Visuals. Before that, I created cutting-edge stories and tools on the Interactives team at The Seattle Times.
